@@ -1,1 +1,1 @@
-# computer-vision-fun
+# cv-mini-projects
